@@ -9,7 +9,7 @@ import {
   CheckCircle, 
   Download,
   Plus,
-  Bank,
+  Building,
   Activity,
   FileText,
   Send
